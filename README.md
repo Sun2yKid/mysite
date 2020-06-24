@@ -23,4 +23,10 @@ $ python manage.py check
 $ python manage.py migrate
 应用数据库迁移
 
+$ python manage.py shell
+打开 Python 交互式命令行
+
+$ python manage.py createsuperuser
+创建一个能登陆管理页面对用户
+
 ```
