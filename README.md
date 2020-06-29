@@ -30,3 +30,7 @@ $ python manage.py createsuperuser
 创建一个能登陆管理页面对用户
 
 ```
+
+Django 源码所在位置
+
+> $ python -c "import django; print(django.__path__)"
